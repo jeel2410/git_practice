@@ -1,1 +1,2 @@
-thsi is a text file
+thsi is a text file  fdfdf
+this is bug fix issue we need to solve this issues
