@@ -1,1 +1,1 @@
-thsi is for mixed reset file thsi file ischanged for soft reset
+this is file for remove
